@@ -19,3 +19,6 @@
 [submodule "plugins/source-switcher"]
 	path = plugins/source-switcher
 	url = https://github.com/sayan801/obs-source-switcher
+[submodule "plugins/obs-ghostscript"]
+	path = plugins/obs-ghostscript
+	url = https://github.com/sayan801/obs-ghostscript/
